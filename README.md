@@ -1,3 +1,3 @@
 # Demo
 
-Just trying out GitHub
+Just trying out GitHub. Yo!
